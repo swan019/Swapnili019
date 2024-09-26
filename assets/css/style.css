@@ -334,7 +334,7 @@ main {
 .avatar-box {
   /* width: 100px; */
   background: var(--bg-gradient-onyx);
-  border-radius: 15px;
+  border-radius: 25px;
   /* background-color: antiquewhite; */
 }
 
